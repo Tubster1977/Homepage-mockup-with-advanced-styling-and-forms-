@@ -8,7 +8,8 @@ body {
 }
 
 hr {
-  margin: 5px auto;
+  margin: 70px auto;
+  padding-top: 60px;
   border-style: dashed none none;
   border-color: #ffc75f;
   border-width: 8px;
@@ -81,13 +82,13 @@ hr {
   font-family: "Montserrat", sans-serif;
   font-size: 2rem;
   font-weight: normal;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   width: 50%;
   margin: auto 25%;
 }
 
 #second-part {
-  margin: 0px;
+  margin: 20px auto;
 }
 
 #second-part h2 {
@@ -197,9 +198,18 @@ hr {
   text-decoration: underline;
 }
 
-.skills-row {
+.skills-row1 {
   width: 70%;
-  margin: 100px auto 100px auto;
+  margin: 55px auto;
+  padding-bottom: 40px;
+  text-align: left;
+}
+
+.skills-row2 {
+  width: 70%;
+  margin: 90px auto;
+  padding-top: 60px;
+  padding-bottom: 100px;
   text-align: left;
 }
 
